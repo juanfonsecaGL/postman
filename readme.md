@@ -6,3 +6,6 @@ From the command line, in the root of the project, run `npm run db:create` this 
 
 ## Running the application
 From the command line, in the root of the project, run `npm run start:dev` this will start the server on port 3000
+
+## YAHA
+To clean a previous installation run `rm -df node_modules/`
